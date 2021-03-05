@@ -1,5 +1,5 @@
-function area(width, height) {
-  return width + height;
+function volume(width, height, depth) {
+  return width + height + depth;
 }
 
-console.log(area(10, 20));
+console.log(volume(10, 20, 30));
